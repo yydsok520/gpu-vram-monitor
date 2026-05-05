@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>GpuVramMonitor</AssemblyName>
+    <RootNamespace>GpuVramMonitor</RootNamespace>
+    <Description>RTX 3090 Neptune VRAM Temperature Monitor and Fan Controller</Description>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LibreHardwareMonitorLib" Version="0.9.4" />
+  </ItemGroup>
+
+</Project>
