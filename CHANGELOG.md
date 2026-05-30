@@ -4,6 +4,10 @@ All notable changes to GPU VRAM Monitor will be documented in this file.
 
 ## Unreleased
 
+- Nothing yet.
+
+## v0.1.1 - 2026-05-30
+
 - Expanded open-source maintenance documentation.
 - Added contribution, security, roadmap, and CI guidance.
 
