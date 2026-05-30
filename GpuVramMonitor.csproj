@@ -8,6 +8,10 @@
     <AssemblyName>GpuVramMonitor</AssemblyName>
     <RootNamespace>GpuVramMonitor</RootNamespace>
     <Description>RTX 3090 Neptune VRAM Temperature Monitor and Fan Controller</Description>
+    <Authors>yydsok520</Authors>
+    <RepositoryUrl>https://github.com/yydsok520/gpu-vram-monitor</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/yydsok520/gpu-vram-monitor</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <Nullable>enable</Nullable>
   </PropertyGroup>
